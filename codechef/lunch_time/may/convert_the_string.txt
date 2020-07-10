@@ -1,0 +1,16 @@
+5
+5
+abcab
+aabab
+3
+aaa
+aab
+2
+de
+cd
+8
+aabbzzzz
+aabbzaaa
+5
+abcde
+abbbc
